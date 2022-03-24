@@ -1,2 +1,3 @@
 # CMM202JoT
-RGU Coursework
+RGU Coursework  
+MSc Business Analytics Student
